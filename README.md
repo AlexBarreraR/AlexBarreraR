@@ -43,7 +43,7 @@ I'm a Software Engineer. I did my Bachelor's in Software Engineering from Techno
 
 [<img alt="linkedin link" src="https://img.shields.io/badge/My%20Linkedin-https%3A%2F%2Flinkedin.com/in/AlexBarreraR-blue" />](https://www.linkedin.com/in/alex-ricardo-barrera-rojo-862142259) 
 
-[<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-red" />](https://.pdf)
+[<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-red" />](https://github.com/AlexBarreraR/AlexBarreraR/blob/main/CV_General.pdf)
 
 [<img alt="email" src="https://img.shields.io/badge/Email%20me-alex.r.b.r%40outlook.com-orange" />](mailto:alex.r.b.r@outlook.com) 
 
