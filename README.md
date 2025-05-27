@@ -2,7 +2,7 @@
     <img src="https://tanaytoshniwal.me/assets/images/nametag.png" width="350px" alt="banner" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlexBarreraR&show_icons=true&count_private=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexBarreraR &show_icons=true&count_private=true&theme=dark"/>
 </p>
 
 # About Me
