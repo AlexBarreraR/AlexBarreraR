@@ -50,5 +50,9 @@ I'm a Software Engineer. I did my Bachelor's in Software Engineering from Techno
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AlexBarreraR?label=Follow%20Me&style=social" />
 
 -----
-Credits: [tanaytoshniwal](https://github.com/tanaytoshniwal)
 
+ public class HolaMundo {
+    public static void main(String[] args) {
+        System.out.println("[Alex Barrera Rojo](https://github.com/AlexBarreraR)");
+    }
+}
