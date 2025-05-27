@@ -15,7 +15,7 @@ I'm a Software Engineer. I did my Bachelor's in Software Engineering from Techno
 # Skills
 ## Programming Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,linux,html,css,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,nodejs,linux,html,css,git&theme=dark)](https://skillicons.dev)
 
 
 ## Tools:
