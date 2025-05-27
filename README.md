@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/AlexBarreraR/AlexBarreraR/blob/main/Marathon%20style.png" width="350px" alt="banner" />
+    <img src="https://github.com/AlexBarreraR/AlexBarreraR/blob/main/pixel_style.png" width="350px" alt="banner" />
 </p>
 <p align="center">
     <img title=false src="https://github-readme-stats.vercel.app/api?username=AlexBarreraR&show_icons=true&count_private=true&theme=dark"/>
